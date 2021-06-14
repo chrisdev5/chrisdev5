@@ -1,0 +1,1 @@
+- 👋 Hi, I am a self-sufficient and motivated Android, iOS, and web developer with 12+ yrs with frontend/backend development in general.
